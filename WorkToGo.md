@@ -1,10 +1,12 @@
 #Work To Go
 
 ## Backtester
+Include uncertainty in the stock purchase price
 
 ## Database of prices
 
 ## Cost Function
+Maximize Sharpe Ratio, Also investigate penalities for frequent trades and getting all in and all out within the same day.  
 
 ## Network Setup
 
