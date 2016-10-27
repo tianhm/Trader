@@ -1,0 +1,8 @@
+# Get TensorFlow running
+
+* Open Oracle VM 
+
+* Open Docker Terminal 
+$ docker run -it -p 8888:8888 -p 6006:6006 -v //c/Users/sengstacken/GarminWork/bin/DeepLearning:/notebooks gcr.io/tensorflow/tensorflow
+
+* Open Chrome and navigate to <docker ip address>:8888
